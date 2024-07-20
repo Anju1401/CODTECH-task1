@@ -431,7 +431,7 @@ input:checked + .slider:before {
 .project-list {
     list-style: none;
     padding: 0;
-    margin-left:-600px;
+ 
 }
 
 .project-item {
