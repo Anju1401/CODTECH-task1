@@ -10,4 +10,5 @@ CSS
 JavaScript
 GitHub Pages for deployment
 Feel free to reach out to me via (anjugowda1401@gmail.com) for any inquiries or collaborations. 
-![image](https://github.com/user-attachments/assets/c37915bb-6c13-42a2-8d60-eb35ec2013d8)
+![image](https://github.com/user-attachments/assets/54a93a4b-a826-487d-a825-c51b42cdb099)
+
