@@ -386,7 +386,7 @@ input:checked + .slider:before {
     color: #2985b9;
     margin-bottom: 20px;
     font-size: 2em;
-    border-bottom: 2px solid #2985b9;
+  
     padding-bottom: 10px;
 }
 
