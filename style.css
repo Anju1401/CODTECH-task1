@@ -139,7 +139,7 @@ h1, h3 {
     font-weight: bolder;
 }
 #front {
-    margin-left:30px;
+    margin-left:100px;
     width: 50%;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -154,45 +154,7 @@ h1, h3 {
     font-size: 34px;
     color: white;
     position:relative;
-    z-index: 1;
-}
-.logo {
-    font-family: "Dancing script",cursive;
-    font-size:128px;
-    padding: 20px 0;
-    position:relative;
-    text-align:center;
-}
-.corner{
-    width: 40px;
-    height:20px;
-    border:1px solid white ;
-    position:absolute;
-}
-.top-left{
-    top:5px;
-    left:5px ;
-    border-width:2px 0 0 3px;
-}
-.bottom-right{
-    bottom: 5px;
-    right:5px;
-    border-width:0 3px 3px 0;
-}
-#name {
-    font-family: Times, 'Times New Roman', serif;
-    color: #2980b9;
-    font-weight: bolder;
-}
-#h1 {
-    color: #2980b9;
-    font-family: 'Times New Roman', Times, serif;
-}
-#front-p {
-    line-height: 1.5;
-    font-style: normal;
-    font-size: larger;
-    text-align: justify;
+    z-index: 1;  
     width:auto;
 }
 .profile-picture-container {
