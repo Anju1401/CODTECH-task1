@@ -417,6 +417,7 @@ input:checked + .slider:before {
 }
 
 .project-item ul {
+    margin-right:200px;
     padding-left: 20px;
 }
 
