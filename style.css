@@ -398,7 +398,7 @@ input:checked + .slider:before {
 
 .project-item {
     margin-top:60px;
-    margin-left:50px;
+    margin-left:0px;
     margin-bottom: 30px;
     border-left: 3px solid #2985b9;
     padding-left: 20px;
