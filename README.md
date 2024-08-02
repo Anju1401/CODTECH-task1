@@ -1,4 +1,9 @@
-Name : Anju k Company:CODTECH IT SOLUTIONS InterID : CT08DS4700 Domain : FRONTEND WEB DEVELOPMENT Duration : July 10 to August 10th 2024
+Name : Anju k 
+Company:CODTECH IT SOLUTIONS 
+InterID : CT08DS4700 
+Domain : FRONTEND WEB DEVELOPMENT 
+Mentor : Muzammil Ahmed
+Duration : July 10 to August 10th 2024
 
 Overview of the project Task 1: 
 Portfolio Website Creation This task involved creating a personal portfolio website to display my work and provide information about my background and education. The website includes the following sections: About: A brief introduction about myself. Projects: A showcase of my projects, including descriptions and links to live demos or repositories. Contact: Information on how to get in touch with me. 
